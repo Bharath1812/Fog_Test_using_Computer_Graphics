@@ -1,1 +1,3 @@
-# Fog_Test_using_Computer_Graphics
+Download Code::Blocks 
+Then main.cpp file contains the code 
+Build and Run The project
